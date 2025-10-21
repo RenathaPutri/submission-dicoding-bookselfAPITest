@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "scripts": "^0.1.0",
+    "start": "^5.1.0"
+  }
+}
